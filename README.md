@@ -1,0 +1,1 @@
+# cal-equivalent-resistance
